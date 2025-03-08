@@ -1,16 +1,29 @@
-Requirement
 
-Python 3.11.4
-skearn
+**Phân chia công việc nhóm 7**
 
-spicy
+- Dũng - Xây dựng mô hình và đánh giá kết quả
 
-plotpy
+- Hiệp - EDA, Feature Engineering
 
-matplotlib
+- Quyền - Hierarchical Clustering
 
-seaborn
+- Hùng - DBSCAN
 
-pandas
 
-numpy
+
+**Requirements**
+
+- Python 3.11.4
+  
+- skearn
+
+- spicy
+- plotpy
+
+- matplotlib
+
+- seaborn
+
+- pandas
+
+- numpy
